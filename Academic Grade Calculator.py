@@ -3,7 +3,7 @@
 # COURSE CODE: CA - 214 (Practical based on Python Programming)
 # CLASS: SYBCA (Semester-III) | Academic Year: 2026-2027
 # NAME: PAWAR PRERANA SATISH
-# TITLE: Academic Grade Calculator.
+# TITLE: Academic Grade Calculator using if-else ladder.
 '''
 #CODE-
 print('ACADEMIC GRADE CALCULATOR')
